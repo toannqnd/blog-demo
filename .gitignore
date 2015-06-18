@@ -1,0 +1,7 @@
+/tmp
+Gemfile
+Gemfile.lock
+.idea/
+test/
+config/database.yml
+db/development.sqlite3
